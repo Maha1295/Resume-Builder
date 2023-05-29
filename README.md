@@ -1,3 +1,33 @@
+### Base Requirement
+
+    Need to create a web app that creates a static HTML page that displays a Resume by taking required inputs from the user
+
+### Info needed from the user
+
+1. Full Name
+2. Email address
+3. Phone Number
+4. LinkedIn Id
+5. Languages Known
+6. Brief Introduction(100 to 300 words)
+7. Education
+    - 10th
+    - 12th
+    - Grad
+    - Masters
+8. Technical Skills
+9. Personal Intersts
+
+
+### Commands Run to develop this app
+
+1. To create the Next-app - npx create-next-app@latest
+2. To update npm version from 8.11.0 to 9.6.4 globally - npm install -g npm@9.6.4
+3. To start the server - npm run dev
+4. To install and initialize Tailwind css - npm install -D tailwindcss postcss autoprefixer
+                                            npx tailwindcss init -p
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
